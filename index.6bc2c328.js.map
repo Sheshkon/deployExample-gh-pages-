@@ -1,1 +1,1 @@
-{"mappings":"AACA,IAAI,IAAY;AAChB,QAAQ,GAAG,CAAC,eAAe","sources":["main.ts"],"sourcesContent":["\r\nlet a: number = 1;\r\nconsole.log('Hello World', a);"],"names":[],"version":3,"file":"index.6bc2c328.js.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA,IAAI,IAAY;AAChB,QAAQ,GAAG,CAAC,eAAe","sources":["main.ts"],"sourcesContent":["let a: number = 1;\r\nconsole.log('Hello World', a);\r\n"],"names":[],"version":3,"file":"index.6bc2c328.js.map","sourceRoot":"/__parcel_source_root/"}

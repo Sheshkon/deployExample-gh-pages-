@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAIA,EAAY,EAChBC,QAAQC,IAAI,cAAeF","sources":["main.ts"],"sourcesContent":["let a: number = 1;\r\nconsole.log('Hello World', a);\r\n"],"names":["a","console","log"],"version":3,"file":"index.aa9f5855.js.map"}
